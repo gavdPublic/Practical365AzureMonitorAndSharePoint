@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "prac-365-azure-monitor-client-side-solution",
+    "id": "02daf377-c65f-4ed9-9516-79fd3ce50762",
+    "version": "2.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/prac-365-azure-monitor.sppkg"
+  }
+}

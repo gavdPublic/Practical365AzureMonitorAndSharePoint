@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.6.0",
+    "libraryName": "prac-365-azure-monitor",
+    "libraryId": "02daf377-c65f-4ed9-9516-79fd3ce50762",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
